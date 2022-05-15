@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bhavani Shankar
 #### This is my github profile status.
-![This is my github profile status.](https://zeevector.com/wp-content/uploads/Youtube-Banner-Background.png)
+![This is my github profile status.](https://www.picng.com/upload/github/png_github_64059.png)
 
 I'm currently a student at one of the famous and old deemed University, named SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,KATTANKULATHUR
 

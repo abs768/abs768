@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abs768/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abs768/" height="30" width="40" /></a>
 <a href="https://instagram.com/a.bhavanishankar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bhavanishankar2002" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucq1pwavedgwmcdpnbszq1lwucq1pwavedgwmcdpnbszq1lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq1pwavedgwmcdpnbszq1lwucq1pwavedgwmcdpnbszq1lw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/a.bhavani shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a.bhavani shankar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/as3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="as3246" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhavani shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhavani shankar" height="30" width="40" /></a>
 </p>

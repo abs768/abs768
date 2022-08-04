@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bhavani Shankar</h1>
-<h3 align="center">19 y/o Aspiring to become a Machine Learning Engineer</h3>
+<h3 align="center">19 Y/O Student of SRM INSTITUTE OF SCIENCE AND TECHNOLOGY KATTANKULATHUR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abs768&label=Profile%20views&color=0e75b6&style=flat" alt="abs768" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abs768" alt="abs768" /></a> </p>
 
-- 🔭 I’m currently working on **Scikit Learn,Tensorflow,Matplotlib**
+- 🔭 I’m currently working on: **Scikit Learn,Tensorflow,Matplotlib**
 
-- 🌱 I’m currently learning **Statistical Machine Learning**
+- 🌱 I’m currently learning: **Statistical Machine Learning**
 
-- 👯 I’m looking to collaborate on **Industrial Automation, Data Science fields**
+- 👯 I’m looking to collaborate on: **Industrial Automation, Data Science fields**
 
-- 💬 Ask me about **numpy,Pandas,matplotlib,netwoking,os...**
+- 💬 Ask me about: **numpy,Pandas,matplotlib,netwoking,os...**
 
-- 📫 How to reach me **abhavanishankar2002@gmail.com**
+- 📫 How to reach me: **abhavanishankar2002@gmail.com**
 
-- ⚡ Fun fact **NASA still uses programs from the 70s in their spacecraft.**
+- ⚡ Fun fact: **NASA still uses programs from the 70s in their spacecraft.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

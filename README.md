@@ -1,31 +1,36 @@
-### Hi there 👋, I'm Bhavani Shankar
-#### This is my github profile status.
-![This is my github profile status.](https://www.picng.com/upload/github/png_github_64059.png)
+<h1 align="center">Hi 👋, I'm Bhavani Shankar</h1>
+<h3 align="center">19 y/o Aspiring to become a Machine Learning Engineer</h3>
 
-I'm currently a student at one of the famous and old deemed University, named SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,KATTANKULATHUR
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abs768&label=Profile%20views&color=0e75b6&style=flat" alt="abs768" /> </p>
 
-Skills: Python,c++,c,powershell,HTML
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abs768" alt="abs768" /></a> </p>
 
-- 🔭 I’m currently working on Numpy Arrays and Pandas Dataframe. 
-- 🌱 I’m currently learning Scikit-Learn Module for ML. 
-- 📫 How to reach me: Via mail:abhavanishankar2002@gmail.com
-<br> 
-<p="left">
-<a href="https://instagram.com/a.bhavanishankar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0202_krishna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/as3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kp9827" height="30" width="40" /></a>
+- 🔭 I’m currently working on **Scikit Learn,Tensorflow,Matplotlib**
+
+- 🌱 I’m currently learning **Statistical Machine Learning**
+
+- 👯 I’m looking to collaborate on **Industrial Automation, Data Science fields**
+
+- 💬 Ask me about **numpy,Pandas,matplotlib,netwoking,os...**
+
+- 📫 How to reach me **abhavanishankar2002@gmail.com**
+
+- ⚡ Fun fact **NASA still uses programs from the 70s in their spacecraft.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abs768/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abs768/" height="30" width="40" /></a>
+<a href="https://instagram.com/a.bhavanishankar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bhavanishankar2002" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucq1pwavedgwmcdpnbszq1lwucq1pwavedgwmcdpnbszq1lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq1pwavedgwmcdpnbszq1lwucq1pwavedgwmcdpnbszq1lw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/as3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="as3246" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhavani shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhavani shankar" height="30" width="40" /></a>
 </p>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abs768)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs768)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abs768&show_icons=true&locale=en&layout=compact" alt="abs768" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abs768&show_icons=true&count_private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abs768&show_icons=true&locale=en" alt="abs768" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs768)  
-
-![GitHub metrics](https://metrics.lecoq.io/abs768)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abs768)  
-
-![Profile views](https://gpvc.arturio.dev/abs768)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abs768&" alt="abs768" /></p>

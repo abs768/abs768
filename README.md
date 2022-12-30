@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **Statistical Machine Learning**
 
-- 👯 I’m looking to collaborate on: **Industrial Automation, Data Science fields**
+- 👯 I’m looking to collaborate on: **Machine Learning and Data Science fields**
 
 - 💬 Ask me about: **numpy,Pandas,matplotlib,netwoking,os...**
 

@@ -28,7 +28,11 @@
 <h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,scikit,beautifulsoup,tensorflow,pytorch,spacy,opencv&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,spacy,opencv&perline=5" /><br>
+    <!-- Additional icons not available on skillicons.dev -->
+    <img src="https://img.shields.io/badge/Seaborn-ffffff.svg?style=flat-square&logo=seaborn&logoColor=blue" alt="Seaborn"/>
+    <img src="https://img.shields.io/badge/Scrapy-7F5B5B.svg?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup-3776AB.svg?style=flat-square&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup"/>
 </div>
 
 <br/>

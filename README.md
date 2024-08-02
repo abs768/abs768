@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 80px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 50px; height: auto;"/>
     <!-- Repeat for other logos, adjusting the width as necessary -->
 </div>
 <br/>

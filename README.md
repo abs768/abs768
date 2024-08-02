@@ -32,10 +32,10 @@
     <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 50px; height: auto;"/>
     <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 50px; height: auto;"/>
     <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: auto;"/>
-    <img src="https://storage.googleapis.com/tensorflow_docs/docs/site/en/brand/assets/tensorflow-white-orange.svg" alt="Tensorflow" style="width: 50px; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 50px; height: auto;"/>
     <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 50px; height: auto;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/SpaCy_logo.svg" alt="Spacy" style="width: 50px; height: auto;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" style="width: 50px; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=spacy" alt="Spacy" style="width: 50px; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 50px; height: auto;"/>
 </div>
 <br/>
 <hr/>

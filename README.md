@@ -28,19 +28,15 @@
 <h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,spacy,opencv&perline=5" /><br>
-    <!-- Custom badges with inline styles for vertical alignment -->
-    <span style="display: inline-block; height: 40px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/Seaborn-ffffff.svg?style=flat-square&logo=seaborn&logoColor=blue" alt="Seaborn"/>
-    </span>
-    <span style="display: inline-block; height: 40px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/Scrapy-7F5B5B.svg?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
-    </span>
-    <span style="display: inline-block; height: 40px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/BeautifulSoup-3776AB.svg?style=flat-square&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup"/>
-    </span>
+    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/tensorflow.svg" alt="Tensorflow"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/spacy.svg" alt="Spacy"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/opencv.svg" alt="OpenCV"/>
 </div>
-
 <br/>
 <hr/>
 

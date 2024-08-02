@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
+<h2 align="center">🛠️ Data Science Tools I have worked on 🛠️</h2>
 <br/>
 <div align="center">
     <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 50px; height: auto; margin-right: 30px;"/>

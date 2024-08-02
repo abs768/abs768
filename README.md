@@ -29,7 +29,13 @@
 <br/>
 <div align="center">
     <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 50px; height: auto;"/>
-    <!-- Repeat for other logos, adjusting the width as necessary -->
+    <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/tensorflow.svg" alt="Tensorflow" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/spacy.svg" alt="Spacy" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/opencv.svg" alt="OpenCV" style="width: 50px; height: auto;"/>
 </div>
 <br/>
 <hr/>

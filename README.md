@@ -37,17 +37,30 @@
 <div align="center">
   <h2>🌟 Highlighted Projects 🌟</h2>
   <br>
-  <!-- Show dynamic project cards -->
-  <a href="https://github.com/abs768/awesome-ml-model">
-    <img alt="Project 1" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=awesome-ml-model&theme=nightowl" />
+  <!-- Plant Disease Classification -->
+  <a href="https://github.com/abs768/Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN">
+    <img alt="Plant Disease Classification" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN&theme=nightowl" />
   </a>
-  <a href="https://github.com/abs768/data-viz">
-    <img alt="Project 2" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=data-viz&theme=nightowl" />
+  <!-- Detecting changes using Pearson Correlation Coefficient -->
+  <a href="https://github.com/abs768/Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient">
+    <img alt="Detecting Changes with Pearson" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient&theme=nightowl" />
   </a>
-  <br/><br/>
+  <br/>
+  <!-- Object Classifier using Computer Vision -->
+  <a href="https://github.com/abs768/Object-Classifier-using-Computer-Vision">
+    <img alt="Object Classifier" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Object-Classifier-using-Computer-Vision&theme=nightowl" />
+  </a>
+  <!-- AR/VR Solar System -->
+  <a href="https://github.com/abs768/arvr-solar-system">
+    <img alt="AR/VR Solar System" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=arvr-solar-system&theme=nightowl" />
+  </a>
+  <br/>
+  <!-- Real Estate Price Prediction -->
+  <a href="https://github.com/abs768/Real-Estate-Price-Prediction">
+    <img alt="Real Estate Price Prediction" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Real-Estate-Price-Prediction&theme=nightowl" />
+  </a>
+  <br/><br/><br/>
 </div>
-
-<hr/>
 
 <h2 align="center">📈 My GitHub Stats 📈</h2>
 <br>

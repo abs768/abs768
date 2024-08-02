@@ -25,10 +25,10 @@
 
 <hr/>
 
-<h2 align="center">🛠️ Tools & Technologies 🛠️</h2>
+<h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,c,java,mysql,git,github,css,html,docker,heroku,postgres,numpy,pandas&perline=7" /><br>
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,scikit,beautifulsoup,tensorflow,pytorch,spacy,opencv&perline=5" /><br>
 </div>
 
 <br/>

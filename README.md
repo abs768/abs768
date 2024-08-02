@@ -26,24 +26,31 @@
     <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 60px;"/>
 </div>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">🌟 Highlighted Projects 🌟</h2>
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
+<h2 align="center">🌟 Highlighted Projects 🌟</h2>
+<br>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <!-- Plant Disease Classification Using DenseNet-169 -->
   <a href="https://github.com/abs768/Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN&theme=nightowl" style="width: 300px;" />
+    <img alt="Plant Disease Classification" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN&theme=nightowl" style="width: 300px;"/>
   </a>
-  <a href="https://github.com/abs768/Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient&theme=nightowl" style="width: 300px;" />
-  </a>
-  <a href="https://github.com/abs768/Object-Classifier-using-Computer-Vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Object-Classifier-using-Computer-Vision&theme=nightowl" style="width: 300px;" />
-  </a>
+  <!-- AR/VR Solar System -->
   <a href="https://github.com/abs768/arvr-solar-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=arvr-solar-system&theme=nightowl" style="width: 300px;" />
+    <img alt="AR/VR Solar System" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=arvr-solar-system&theme=nightowl" style="width: 300px;"/>
   </a>
+  <!-- Object Classifier using Computer Vision -->
+  <a href="https://github.com/abs768/Object-Classifier-using-Computer-Vision">
+    <img alt="Object Classifier" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Object-Classifier-using-Computer-Vision&theme=nightowl" style="width: 300px;"/>
+  </a>
+  <!-- Detecting changes using Pearson Correlation Coefficient -->
+  <a href="https://github.com/abs768/Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient">
+    <img alt="Detecting Changes with Pearson" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient&theme=nightowl" style="width: 300px;"/>
+  </a>
+  <!-- Real Estate Price Prediction -->
   <a href="https://github.com/abs768/Real-Estate-Price-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Real-Estate-Price-Prediction&theme=nightowl" style="width: 300px;" />
+    <img alt="Real Estate Price Prediction" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Real-Estate-Price-Prediction&theme=nightowl" style="width: 300px;"/>
   </a>
 </div>
+<br/><br/><br/>
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">📈 My GitHub Stats 📈</h2>
 <div align="center">

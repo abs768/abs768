@@ -45,28 +45,29 @@
   <br>
   <!-- Plant Disease Classification -->
   <a href="https://github.com/abs768/Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN">
-    <img alt="Plant Disease Classification" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN&theme=nightowl" style="width: 300px;"/>
+    <img alt="Plant Disease Classification" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN&theme=nightowl" />
   </a>
   <!-- Detecting changes using Pearson Correlation Coefficient -->
   <a href="https://github.com/abs768/Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient">
-    <img alt="Detecting Changes with Pearson" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient&theme=nightowl" style="width: 300px;"/>
+    <img alt="Detecting Changes with Pearson" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Detecting-changes-between-two-images-using-Pearson-Correlation-Coefficient&theme=nightowl" />
   </a>
   <br/>
   <!-- Object Classifier using Computer Vision -->
   <a href="https://github.com/abs768/Object-Classifier-using-Computer-Vision">
-    <img alt="Object Classifier" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Object-Classifier-using-Computer-Vision&theme=nightowl" style="width: 300px;"/>
+    <img alt="Object Classifier" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Object-Classifier-using-Computer-Vision&theme=nightowl" />
   </a>
   <!-- AR/VR Solar System -->
   <a href="https://github.com/abs768/arvr-solar-system">
-    <img alt="AR/VR Solar System" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=arvr-solar-system&theme=nightowl" style="width: 300px;"/>
+    <img alt="AR/VR Solar System" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=arvr-solar-system&theme=nightowl" />
   </a>
   <br/>
   <!-- Real Estate Price Prediction -->
   <a href="https://github.com/abs768/Real-Estate-Price-Prediction">
-    <img alt="Real Estate Price Prediction" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Real-Estate-Price-Prediction&theme=nightowl" style="width: 300px;"/>
+    <img alt="Real Estate Price Prediction" src="https://github-readme-stats.vercel.app/api/pin/?username=abs768&repo=Real-Estate-Price-Prediction&theme=nightowl" />
   </a>
   <br/><br/><br/>
 </div>
+
 
 <h2 align="center">📈 My GitHub Stats 📈</h2>
 <br>

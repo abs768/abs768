@@ -28,14 +28,13 @@
 <h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 50px; height: auto;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 50px; height: auto;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 50px; height: auto;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 30px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 40px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 60px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 60px; height: auto;"/>
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 50px; height: auto;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 50px; height: auto;"/>
-    <img src="https://skillicons.dev/icons?i=spacy" alt="Spacy" style="width: 50px; height: auto;"/>
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 50px; height: auto;"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 40px; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 40px; height: auto;"/>
 </div>
 <br/>
 <hr/>

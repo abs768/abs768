@@ -29,10 +29,16 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,spacy,opencv&perline=5" /><br>
-    <!-- Additional icons not available on skillicons.dev -->
-    <img src="https://img.shields.io/badge/Seaborn-ffffff.svg?style=flat-square&logo=seaborn&logoColor=blue" alt="Seaborn"/>
-    <img src="https://img.shields.io/badge/Scrapy-7F5B5B.svg?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
-    <img src="https://img.shields.io/badge/BeautifulSoup-3776AB.svg?style=flat-square&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup"/>
+    <!-- Custom badges with inline styles for vertical alignment -->
+    <span style="display: inline-block; height: 40px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Seaborn-ffffff.svg?style=flat-square&logo=seaborn&logoColor=blue" alt="Seaborn"/>
+    </span>
+    <span style="display: inline-block; height: 40px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Scrapy-7F5B5B.svg?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
+    </span>
+    <span style="display: inline-block; height: 40px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/BeautifulSoup-3776AB.svg?style=flat-square&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup"/>
+    </span>
 </div>
 
 <br/>

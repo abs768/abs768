@@ -10,7 +10,7 @@
  
  🔭 **Currently Crafting**: Visualizations with **Matplotlib** and predictive models using **Tensorflow**
  
- 🌱 **Expanding My Horizons** in **Statistical Machine Learning** and **Advanced Data Structures**
+ 🌱 **Advancing My Expertise** in **Predictive Analytics** and **Machine Learning Algorithms**.
  
  </div>
  

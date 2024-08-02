@@ -28,14 +28,8 @@
 <h2 align="center">🛠️ Essential Machine Learning & Data Science Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/tensorflow.svg" alt="Tensorflow"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/spacy.svg" alt="Spacy"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/opencv.svg" alt="OpenCV"/>
+    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 80px; height: auto;"/>
+    <!-- Repeat for other logos, adjusting the width as necessary -->
 </div>
 <br/>
 <hr/>

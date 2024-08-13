@@ -16,26 +16,23 @@
 <hr/>
 
 <h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🛠️Tool Skills🛠️</h2>
-<div align="center" style="background-color: #333; padding: 20px;">
-    <div style="background-color: white; padding: 20px; border-radius: 10px; display: flex; justify-content: space-around; align-items: center;">
-        <!-- First Group of Tools with Title -->
-        <div>
-            <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px;">Data Science and Machine Learning</div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 40px; margin-right: 10px;"/>
-            <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 40px; margin-right: 10px;"/>
-            <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 40px; margin-right: 10px;"/>
-            <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 40px; margin-right: 10px;"/>
-            <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 40px;"/>
-        </div>
-        <!-- Second Group of Tools with Title -->
-        <div>
-            <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px;">Deep Learning Frameworks</div>
-            <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px; margin-right: 10px;"/>
-            <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
-        </div>
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <!-- First Group of Tools with Title -->
+    <div style="margin-bottom: 20px;">
+        <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px; color: #000;">Data Science and Machine Learning</div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 40px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 40px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 40px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 40px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 40px;"/>
+    </div>
+    <!-- Second Group of Tools with Title -->
+    <div>
+        <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px; color: #000;">Deep Learning Frameworks</div>
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
     </div>
 </div>
-
 
 <h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🌟 Highlighted Projects 🌟</h2
 <br>

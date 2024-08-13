@@ -19,18 +19,18 @@
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <!-- First Group of Tools with Title -->
     <div style="margin-bottom: 20px;">
-        <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px; color: #000;">Data Science and Machine Learning</div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 40px; margin-right: 10px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 40px; margin-right: 10px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 40px; margin-right: 10px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 40px; margin-right: 10px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 40px;"/>
+        <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px; color: black;">Data Science and Machine Learning</div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 60px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 60px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 120px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 100px; margin-right: 10px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 140px;"/>
     </div>
     <!-- Second Group of Tools with Title -->
     <div>
         <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px; color: #000;">Deep Learning Frameworks</div>
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px; margin-right: 10px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 100px;"/>
     </div>
 </div>
 

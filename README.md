@@ -16,14 +16,18 @@
 <hr/>
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Data Science Tools I've Mastered 🛠️</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 60px;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 60px;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 60px;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 60px;"/>
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px;"/>
-    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 60px;"/>
+<div align="center" style="background-color: #333; padding: 20px;">
+    <div style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block;">
+        <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 60px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 60px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 60px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 60px;"/>
+    </div>
+    <div style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block; margin-left: 20px;">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px;"/>
+        <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 60px;"/>
+    </div>
 </div>
 
 <h2 align="center">🌟 Highlighted Projects 🌟</h2>

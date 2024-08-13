@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7F00FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bhavani+Shankar!;" />
 </h1>
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">Eager Explorer of Machine Learning and Data Science</h3>
+<h3 align="center" style="font-family: 'Times New Roman', sans-serif; color: #555;">Eager Explorer of Machine Learning and Data Science</h3>
 
 <div align="center" style="margin: 20px;">
   <a href="mailto:abhavanishankar2002@gmail.com">
@@ -15,20 +15,29 @@
 
 <hr/>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">🛠️ Data Science Tools I've Mastered 🛠️</h2>
+<h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🛠️ML Tool Skills🛠️</h2>
 <div align="center" style="background-color: #333; padding: 20px;">
-    <div style="background-color: white; padding: 20px; border-radius: 10px; display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 60px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 60px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 60px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 60px;"/>
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px;"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="width: 60px;"/>
+    <div style="background-color: white; padding: 20px; border-radius: 10px; display: flex; justify-content: space-around; align-items: center;">
+        <!-- First Group of Tools with Title -->
+        <div>
+            <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px;">Data Science and Machine Learning</div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 40px; margin-right: 10px;"/>
+            <img src="https://github.com/valohai/ml-logos/raw/master/numpy.svg" alt="Numpy" style="width: 40px; margin-right: 10px;"/>
+            <img src="https://github.com/valohai/ml-logos/raw/master/pandas.svg" alt="Pandas" style="width: 40px; margin-right: 10px;"/>
+            <img src="https://github.com/valohai/ml-logos/raw/master/matplotlib.svg" alt="Matplotlib" style="width: 40px; margin-right: 10px;"/>
+            <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-Learn" style="width: 40px;"/>
+        </div>
+        <!-- Second Group of Tools with Title -->
+        <div>
+            <div style="font-family: 'Times New Roman', sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px;">Deep Learning Frameworks</div>
+            <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 60px; margin-right: 10px;"/>
+            <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="Pytorch" style="width: 60px;"/>
+        </div>
     </div>
 </div>
 
-<h2 align="center">🌟 Highlighted Projects 🌟</h2>
+
+<h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🌟 Highlighted Projects 🌟</h2
 <br>
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <!-- Plant Disease Classification Using DenseNet-169 -->
@@ -54,12 +63,12 @@
 </div>
 <br/><br/><br/>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">📈 My GitHub Stats 📈</h2>
+<h2 align="center" style="font-family: 'Times New Roman', sans-serif;">📈 My GitHub Stats 📈</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abs768&show_icons=true&theme=nightowl&border_radius=10" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abs768&theme=nightowl&border_radius=10" alt="Streak Stats"/>
 </div>
 
-<h3 align="center">
+<h3 align="center" style="font-family: 'Times New Roman', sans-serif;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!;Connect+with+me+on+LinkedIn!;Let's+build+something+amazing+together!;" />
 </h3>

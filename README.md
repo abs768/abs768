@@ -15,7 +15,7 @@
 
 <hr/>
 
-<h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🛠️ML Tool Skills🛠️</h2>
+<h2 align="center" style="font-family: 'Times New Roman', sans-serif;">🛠️Tool Skills🛠️</h2>
 <div align="center" style="background-color: #333; padding: 20px;">
     <div style="background-color: white; padding: 20px; border-radius: 10px; display: flex; justify-content: space-around; align-items: center;">
         <!-- First Group of Tools with Title -->

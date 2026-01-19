@@ -1,76 +1,118 @@
-<div align="center">
+# Bhavani Shankar Ajith
 
-# Bhavani Shankar Ajith  
-**Software Engineer • ML Systems • Data Infrastructure**
+**Software Engineer • Data Systems • ML Infrastructure**  
+MS Data Science @ Stony Brook (3.73 GPA) • Graduating May 2026
 
-Stony Brook MS Data Science (GPA 3.73) • Graduating May 2026
-
-[Portfolio](https://abs768.github.io/abs768.githubio.com/) ·
-[LinkedIn](https://www.linkedin.com/in/abs768/) ·
-[Email](mailto:bhavanishankar.ajith@stonybrook.edu) ·
-[GitHub](https://github.com/abs768)
-
-</div>
+📧 bhavanishankar.ajith@stonybrook.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/abs768/) • [GitHub](https://github.com/abs768) • [Portfolio](https://abs768.github.io)
 
 ---
 
-## About
-I build backend and data systems that hold up under real conditions: retries, timeouts, partial failures, and messy data.  
-My work spans Spring Boot microservices, data pipelines, and ML deployment/optimization.
+## 👨‍💻 What I Build
+
+Production backend systems, data pipelines, and ML infrastructure. My work focuses on:
+- **Microservices & APIs**: Spring Boot services processing 184K+ users with real-time validation
+- **Data Infrastructure**: Event-driven pipelines handling 3K+ records with sub-minute latency
+- **ML Systems**: GPU-optimized inference (250ms → <100ms) and RAG systems with vector search
+
+**Tech Stack**: Java, Python, Spring Boot, Kafka, PostgreSQL, Snowflake, Docker, TensorRT
 
 ---
 
-## Experience
+## 💼 Experience
 
-**Navitas Business Consulting — Software Engineer Intern (Jun–Aug 2025)**  
-- Built Spring Boot services and eligibility workflows supporting ~184K members  
-- Implemented PostgreSQL triggers/audit logging to reduce manual data fixes  
-- Wrote integration tests with Testcontainers + JUnit to validate real dependencies  
-**Tech:** Java, Spring Boot, PostgreSQL, Liquibase/Flyway, Docker, JUnit, Testcontainers
+### Software Engineer Intern • Navitas Business Consulting
+*June 2024 – August 2024 | Herndon, VA*
 
-**NVIDIA Jetson AI Program — Deep Learning Apprentice (2022)**  
-- Optimized a CV model for edge deployment; improved latency via TensorRT + profiling  
-**Tech:** TensorFlow, TensorRT, CUDA, Jetson, Docker, Nsight
+Built production enrollment system serving 184K+ employees:
+- **40% faster processing**: Automated legacy database sync with real-time eligibility validation
+- **60% fewer data issues**: Built integration test suite with Testcontainers (85% coverage)
+- **Zero-downtime migrations**: Led Liquibase adoption for version-controlled schema changes
 
----
+**Stack**: Spring Boot, PostgreSQL, Liquibase, Testcontainers, Docker, JUnit
 
-## Featured Projects
+### Deep Learning Apprentice • NVIDIA Jetson AI Program
+*May 2022 – October 2022*
 
-### Intelligent Doc RAG  
-Private document Q&A with microservices + vector search.  
-**Tech:** Spring Boot, Qdrant, PostgreSQL, Docker, Ollama/Llama, Testcontainers  
-**Repo:** https://github.com/abs768/intelligent-doc-rag
+Optimized vehicle damage detection pipeline for edge deployment:
+- **60% faster inference**: 250ms → sub-100ms through TensorRT optimization + GPU preprocessing
+- **40% less overhead**: Unified Memory architecture eliminating CPU-GPU transfer bottlenecks
+- **Production deployment**: Dockerized service with health monitoring across edge devices
 
-### MarketPulse — Real-Time Stock Pipeline  
-Event-driven ingestion + transformations + analytics layer.  
-**Tech:** Kafka, MinIO/S3, Snowflake, dbt, Airflow, Python, Streamlit  
-**Repo:** https://github.com/abs768/MarketPulse-Real-Time-Stock-Pipeline
-
-### Plant Disease Classification (DenseNet-169)  
-Image classification pipeline + deployment-oriented implementation.  
-**Tech:** Python, TensorFlow/PyTorch (as applicable), Docker  
-**Repo:** https://github.com/abs768/Plant-Disease-Classification-Using-Densenet-169-Architecture-of-CNN
+**Stack**: TensorFlow, TensorRT, CUDA, NVIDIA VPI, Docker, Nsight Systems
 
 ---
 
-## Skills
-**Backend:** Spring Boot, REST APIs, Microservices, Auth/JWT  
-**Data:** PostgreSQL, Snowflake, BigQuery, ETL/ELT, dbt, Airflow, Kafka  
-**ML:** TensorFlow, PyTorch, model optimization (TensorRT), RAG, Qdrant  
-**Infra/Testing:** Docker, CI/CD basics, JUnit, PyTest, Testcontainers
+## 🚀 Featured Projects
+
+### [Intelligent Document RAG](https://github.com/abs768/intelligent-doc-rag)
+**Production-grade RAG system with microservices architecture**
+
+Private document Q&A serving 100K+ chunks with vector similarity search:
+- **Sub-100ms search**: Qdrant HNSW indexing (768-dim embeddings)
+- **3-8s end-to-end latency**: Semantic chunking + local LLM (llama3.2) + PostgreSQL metadata
+- **70% test coverage**: Integration tests with Testcontainers validating data isolation
+- **Full auth flow**: JWT authentication, async processing, error handling
+
+**Stack**: Spring Boot, Qdrant, PostgreSQL, React, Ollama, Docker, Testcontainers
+
+**Architecture Highlights**:
+- Semantic chunking (500-char, word-boundary aware) with nomic-embed
+- RESTful APIs with controller-service-repository pattern
+- Independent service scaling and testing
 
 ---
 
-## Education
-**Stony Brook University** — MS Data Science (GPA 3.73/4.0), May 2026  
-**SRM Institute of Science and Technology** — BTech CSE (AI/ML), 2024
+### [MarketPulse](https://github.com/abs768/MarketPulse-Real-Time-Stock-Pipeline)
+**Real-time streaming analytics platform**
 
-**Certifications:** Oracle OCI Generative AI Professional (2025), OCI Data Science Professional (2025)
+Event-driven pipeline processing 3K+ stock records across 600 companies:
+- **Sub-minute latency**: Kafka streaming → MinIO → Snowflake (hours → <1min decision time)
+- **96% reliability**: 25 Airflow DAG runs with automated retries and alerting
+- **27x faster transforms**: 12min → 45s through query optimization (Bronze-Silver-Gold pattern)
+- **Sub-second queries**: Materialized views powering 5 interactive dashboards
+
+**Stack**: Kafka, Airflow, dbt, Snowflake, MinIO, Python, Streamlit
+
+**Pipeline Features**:
+- Minute-level ingestion with exponential backoff
+- Incremental processing with data quality validation
+- 31-second mean DAG duration
 
 ---
 
-## Contact
-Email: bhavanishankar.ajith@stonybrook.edu  
-LinkedIn: https://www.linkedin.com/in/abs768/
+## 🛠️ Technical Skills
+```
+Languages          Java, Python, SQL, JavaScript, C++
+Backend            Spring Boot, FastAPI, REST APIs, microservices, JWT auth
+Data Engineering   Kafka, Airflow, dbt, ETL/ELT, data modeling
+Databases          PostgreSQL, Snowflake, Qdrant (vector), query optimization
+ML/AI              TensorFlow, TensorRT, PyTorch, RAG, CUDA, Ollama
+DevOps             Docker, Testcontainers, Git, JUnit, CI/CD, Linux
+Cloud              GCP (BigQuery, Cloud Functions), AWS (EC2, S3), MinIO
+```
 
-_Last updated: Jan 2025_
+---
+
+## 🎓 Education
+
+**Stony Brook University (SUNY)** • *May 2026*  
+MS in Data Science • GPA: 3.73/4.0
+
+**SRM Institute of Science and Technology** • *June 2024*  
+BTech in Computer Science (AI/ML) • GPA: 9.66/10.0
+
+**Certifications**:
+- Oracle OCI Generative AI Professional (2025)
+- Oracle OCI Data Science Professional (2025)
+
+---
+
+## 📫 Let's Connect
+
+Open to **Software Engineering** and **ML Infrastructure** roles for **Summer 2025** and **New Grad 2026**.
+
+Interested in distributed systems, data infrastructure, and production ML systems.
+
+📧 bhavanishankar.ajith@stonybrook.edu  
+💼 [linkedin.com/in/abs768](https://www.linkedin.com/in/abs768/)

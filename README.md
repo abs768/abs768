@@ -85,7 +85,13 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=abs768&show_icons=true&theme=gruvbox)
+<!-- The public github-readme-stats.vercel.app instance is often paused (503).
+     Original card, in case it comes back or you self-host your own instance
+     (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own):
+     ![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=abs768&show_icons=true&theme=gruvbox)
+-->
+![Bhavani's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abs768&theme=gruvbox)
+![Bhavani's contribution streak](https://streak-stats.demolab.com?user=abs768&theme=gruvbox)
 
 ---
 

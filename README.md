@@ -91,7 +91,7 @@ Credits and references used in this README:
      ![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=abs768&show_icons=true&theme=gruvbox)
 -->
 ![Bhavani's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abs768&theme=gruvbox)
-![Bhavani's contribution streak](https://streak-stats.demolab.com?user=abs768&theme=gruvbox)
+![Bhavani's most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abs768&theme=gruvbox)
 
 ---
 
